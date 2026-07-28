@@ -1,32 +1,19 @@
-# Todo list MERN stack (MongoDB, Express.js, React.js, Node.js)
+# mern-todo-list-mern-stack
 
-[img]: todo-list-mern-stack.png (fdsfs)
-![Screenshot](screenshot.png 'Screenshot Todo list')
+Hey there! This is a complete project repository featuring JavaScript.
 
-## Technologies Used:
-- MongoDB
-- Express.js
-- React.js
-- Node.js
+## Why this repository exists
+I source and maintain clean, reference codebases across various technologies (including web apps, mobile apps, workflow integrations, and system utilities). This repository is kept public to serve as a reference or clean starting point for fellow developers.
 
-## Installation
-* Clone the project
-* Install **Node Js** (v16.13.1)
-* Install **MongoDB** (Community server v5.0.5)
-* Run `npm install` to backend directory
-* Run `npm install` to frontend directory
+## Tech Stack & Highlights
+- **Primary Tech Stack**: JavaScript
+- Zero bloat, clean directories, and fully structured.
 
-## Run server
-In the project go to backend directory, you can run:
+## How to run or use
+1. Clone this repository to your local workspace.
+2. Install the necessary dependencies for this stack (e.g., check configuration files like `package.json`, `requirements.txt`, etc.).
+3. Run the project according to standard procedures for this environment.
 
-### `npm start`
-
-You can access on [http://localhost:3030](http://localhost:3030)
-
-## Run app
-In the project go to frontend directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
+Feel free to fork, explore, or reach out if you have any questions!
+Created and maintained by [Md Ejaj Mahmud](https://github.com/ejajmahmud).
